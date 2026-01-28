@@ -13,7 +13,18 @@ A Node.js backend service designed to ingest IoT sensor temperature readings, pe
 * **Framework:** Express.js
 * **Database:** MongoDB (Mongoose ODM)
 
----
+## 📸 Output Screenshots
+
+Here are the results from testing the API endpoints and verifying data persistence in MongoDB.
+
+### 1. API Testing & Execution
+![API Execution 1](https://github.com/user-attachments/assets/b7fb186f-39ff-48e1-a8c7-173c707b875e)
+
+### 2. Response Verification
+![API Response 2](https://github.com/user-attachments/assets/03898d97-9e5e-475a-af5d-2eb4c75f467e)
+
+### 3. MongoDB Atlas Persistence
+![Database View 3](https://github.com/user-attachments/assets/9baf1b45-0f60-41a0-bcea-7cd1d8b5dc32)
 
 ## Setup & Installation
 
