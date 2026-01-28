@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### 2. Clone and Install
 ```bash
 # Clone the repository
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone https://github.com/ShaikhFarhan882/faclon-backend-assignment/
 cd faclon-backend-assignment
 
 # Install dependencies
